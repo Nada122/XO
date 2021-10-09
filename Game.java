@@ -74,6 +74,7 @@ public void win(){
         score1();
         winner(0,1,2);
         }
+        
     else if(b[3].getText()=="X" && b[4].getText()=="X" && b[5].getText()=="X")
        {
            enable();

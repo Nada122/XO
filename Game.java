@@ -28,6 +28,7 @@ public class Game extends JFrame implements ActionListener {
     boolean player1=true;
     JFrame f;
     JButton clear;
+    
 
     public Game () {
       
